@@ -20,9 +20,9 @@ a{
 .player_one,.player_two{
 	width:90%;
 	padding:5%;
-background-color:rgb(255,255,255)
+background-color:rgba(0,0,0,0);
 	border-radius:20px;
 }
 .h3{
-	padding-left:40px
+	padding-left:40px;
 }
